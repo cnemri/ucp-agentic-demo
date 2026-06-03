@@ -1,0 +1,29 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.pnpm-store/
+
+# Python / Backend
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# OS/Editor configs
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

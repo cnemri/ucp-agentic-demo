@@ -1,0 +1,3308 @@
+[
+  {
+    "@type": "Product",
+    "productID": "BISC-001",
+    "name": "Chocochip Cookies",
+    "sku": "COOKIES-001",
+    "image": [
+      "http://localhost:10999/images/cookies.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CookieCo"
+    },
+    "offers": {
+      "price": "4.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bisc-001",
+    "description": "Fresly baked Chocochip Cookies",
+    "gtin": "9876543210125",
+    "mpn": "CC-SB-001",
+    "category": "Groceries > Snacks > Cookies & Biscuits",
+    "nutrition": {
+      "servingSize": "30g",
+      "calories": 150,
+      "totalFat": "7g",
+      "saturatedFat": "4g",
+      "sodium": "95mg",
+      "totalCarbohydrates": "20g",
+      "dietaryFiber": "1g",
+      "sugars": "12g",
+      "protein": "2g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "STRAW-001",
+    "name": "Fresh Strawberries",
+    "sku": "STRAW-001",
+    "image": [
+      "http://localhost:10999/images/strawberries.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FarmFresh"
+    },
+    "offers": {
+      "price": "4.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/straw-001",
+    "description": "Sweet and juicy fresh strawberries, 1 lb.",
+    "gtin": "9876543210127",
+    "mpn": "FF-ST-001",
+    "category": "Groceries > Fresh Produce > Fruits",
+    "nutrition": {
+      "servingSize": "140g",
+      "calories": 45,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "11g",
+      "dietaryFiber": "3g",
+      "sugars": "7g",
+      "protein": "1g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "CHIPS-001",
+    "name": "Classic Potato Chips",
+    "sku": "CHIPS-001",
+    "image": [
+      "http://localhost:10999/images/chips.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SaltySnacks"
+    },
+    "offers": {
+      "price": "3.79",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/chips-001",
+    "description": "Crispy and salty classic potato chips, family size.",
+    "gtin": "9876543210128",
+    "mpn": "SS-PC-001",
+    "category": "Groceries > Snacks > Chips & Crisps",
+    "nutrition": {
+      "servingSize": "28g",
+      "calories": 150,
+      "totalFat": "10g",
+      "saturatedFat": "1.5g",
+      "sodium": "170mg",
+      "totalCarbohydrates": "15g",
+      "dietaryFiber": "1g",
+      "sugars": "0g",
+      "protein": "2g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "SW-CHIPS-001",
+    "name": "Baked Sweet Potato Chips",
+    "sku": "SW-CHIPS-001",
+    "image": [
+      "http://localhost:10999/images/chips.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SaltySnacks"
+    },
+    "offers": {
+      "price": "4.79",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/sw-chips-001",
+    "description": "Crispy and salty sweet potato chips, family size.",
+    "gtin": "9876543210129",
+    "mpn": "SS-PC-009",
+    "category": "Groceries > Snacks > Chips & Crisps",
+    "nutrition": {
+      "servingSize": "28g",
+      "calories": 130,
+      "totalFat": "4g",
+      "saturatedFat": "0.5g",
+      "sodium": "140mg",
+      "totalCarbohydrates": "21g",
+      "dietaryFiber": "3g",
+      "sugars": "6g",
+      "protein": "2g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "O-COOKIES-001",
+    "name": "Classic Oat Cookies",
+    "sku": "O-COOKIES-001",
+    "image": [
+      "http://localhost:10999/images/oat_cookies.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CookieCo"
+    },
+    "offers": {
+      "price": "5.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bisc-001",
+    "description": "Fresly baked Oat Cookies",
+    "gtin": "9876543210129",
+    "mpn": "CC-SB1-001",
+    "category": "Groceries > Snacks > Cookies & Biscuits",
+    "nutrition": {
+      "servingSize": "35g",
+      "calories": 160,
+      "totalFat": "6g",
+      "saturatedFat": "2.5g",
+      "sodium": "110mg",
+      "totalCarbohydrates": "23g",
+      "dietaryFiber": "2g",
+      "sugars": "9g",
+      "protein": "3g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "NUTRIBAR-001",
+    "name": "Nutri-Bar",
+    "sku": "NUTRIBAR-001",
+    "image": [
+      "http://localhost:10999/images/nutribar.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "HealthEats"
+    },
+    "offers": {
+      "price": "2.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/nutribar-001",
+    "description": "A healthy and nutritious snack bar, packed with nuts and seeds.",
+    "gtin": "9876543210135",
+    "mpn": "HE-NB-001",
+    "category": "Groceries > Health & Nutrition Bars",
+    "nutrition": {
+      "servingSize": "40g",
+      "calories": 180,
+      "totalFat": "8g",
+      "saturatedFat": "1.5g",
+      "sodium": "80mg",
+      "totalCarbohydrates": "22g",
+      "dietaryFiber": "4g",
+      "sugars": "8g",
+      "protein": "5g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "MILK-001",
+    "name": "Organic Whole Milk",
+    "sku": "MILK-001",
+    "image": [
+      "http://localhost:10999/images/MILK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DairyGold"
+    },
+    "offers": {
+      "price": "3.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/milk-001",
+    "description": "1 Gallon Organic Whole Milk",
+    "gtin": "9876543210200",
+    "mpn": "DA-MILK-001",
+    "category": "Groceries > Dairy & Alternatives",
+    "nutrition": {
+      "servingSize": "240ml",
+      "calories": 150,
+      "totalFat": "8g",
+      "saturatedFat": "5g",
+      "sodium": "120mg",
+      "totalCarbohydrates": "12g",
+      "dietaryFiber": "0g",
+      "sugars": "12g",
+      "protein": "8g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "ALM-MILK-001",
+    "name": "Organic Almond Milk",
+    "sku": "ALM-MILK-001",
+    "image": [
+      "http://localhost:10999/images/ALM-MILK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DairyGold"
+    },
+    "offers": {
+      "price": "3.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/alm-milk-001",
+    "description": "Unsweetened Vanilla Almond Milk",
+    "gtin": "9876543210201",
+    "mpn": "DA-ALM-MILK-001",
+    "category": "Groceries > Dairy & Alternatives",
+    "nutrition": {
+      "servingSize": "240ml",
+      "calories": 30,
+      "totalFat": "2.5g",
+      "saturatedFat": "0g",
+      "sodium": "160mg",
+      "totalCarbohydrates": "1g",
+      "dietaryFiber": "1g",
+      "sugars": "0g",
+      "protein": "1g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "GYOG-001",
+    "name": "Greek Yogurt Plain",
+    "sku": "GYOG-001",
+    "image": [
+      "http://localhost:10999/images/GYOG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DairyGold"
+    },
+    "offers": {
+      "price": "5.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/gyog-001",
+    "description": "Non-fat Plain Greek Yogurt, 32 oz",
+    "gtin": "9876543210202",
+    "mpn": "DA-GYOG-001",
+    "category": "Groceries > Dairy & Alternatives",
+    "nutrition": {
+      "servingSize": "170g",
+      "calories": 100,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "60mg",
+      "totalCarbohydrates": "6g",
+      "dietaryFiber": "0g",
+      "sugars": "6g",
+      "protein": "18g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "CHED-001",
+    "name": "Cheddar Cheese Block",
+    "sku": "CHED-001",
+    "image": [
+      "http://localhost:10999/images/CHED-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DairyGold"
+    },
+    "offers": {
+      "price": "4.29",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/ched-001",
+    "description": "Sharp Cheddar Cheese block, 8 oz",
+    "gtin": "9876543210203",
+    "mpn": "DA-CHED-001",
+    "category": "Groceries > Dairy & Alternatives",
+    "nutrition": {
+      "servingSize": "28g",
+      "calories": 110,
+      "totalFat": "9g",
+      "saturatedFat": "5g",
+      "sodium": "180mg",
+      "totalCarbohydrates": "1g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "7g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "PEANUT-001",
+    "name": "Creamy Peanut Butter",
+    "sku": "PEANUT-001",
+    "image": [
+      "http://localhost:10999/images/PEANUT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "NutriSpread"
+    },
+    "offers": {
+      "price": "4.89",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/peanut-001",
+    "description": "All-natural Creamy Peanut Butter, 16 oz",
+    "gtin": "9876543210204",
+    "mpn": "NU-PEANUT-001",
+    "category": "Groceries > Pantry > Spreads & Condiments",
+    "nutrition": {
+      "servingSize": "32g",
+      "calories": 190,
+      "totalFat": "16g",
+      "saturatedFat": "2.5g",
+      "sodium": "140mg",
+      "totalCarbohydrates": "7g",
+      "dietaryFiber": "3g",
+      "sugars": "2g",
+      "protein": "8g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "HONEY-001",
+    "name": "Organic Raw Honey",
+    "sku": "HONEY-001",
+    "image": [
+      "http://localhost:10999/images/HONEY-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "NutriSpread"
+    },
+    "offers": {
+      "price": "6.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/honey-001",
+    "description": "Pure unfiltered raw wildflower honey, 12 oz",
+    "gtin": "9876543210205",
+    "mpn": "NU-HONEY-001",
+    "category": "Groceries > Pantry > Spreads & Condiments",
+    "nutrition": {
+      "servingSize": "21g",
+      "calories": 60,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "17g",
+      "dietaryFiber": "0g",
+      "sugars": "16g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "OIL-001",
+    "name": "Extra Virgin Olive Oil",
+    "sku": "OIL-001",
+    "image": [
+      "http://localhost:10999/images/OIL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "NutriSpread"
+    },
+    "offers": {
+      "price": "12.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/oil-001",
+    "description": "Cold-pressed Extra Virgin Olive Oil, 750ml",
+    "gtin": "9876543210206",
+    "mpn": "NU-OIL-001",
+    "category": "Groceries > Pantry > Spreads & Condiments",
+    "nutrition": {
+      "servingSize": "15ml",
+      "calories": 120,
+      "totalFat": "14g",
+      "saturatedFat": "2g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "0g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "GTEA-001",
+    "name": "Organic Green Tea",
+    "sku": "GTEA-001",
+    "image": [
+      "http://localhost:10999/images/GTEA-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BrewPeak"
+    },
+    "offers": {
+      "price": "3.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/gtea-001",
+    "description": "Sencha Green Tea bags, 20 count",
+    "gtin": "9876543210207",
+    "mpn": "BR-GTEA-001",
+    "category": "Groceries > Beverages > Tea & Coffee",
+    "nutrition": {
+      "servingSize": "1 bag",
+      "calories": 0,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "0g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "COFFEE-001",
+    "name": "Dark Roast Coffee Beans",
+    "sku": "COFFEE-001",
+    "image": [
+      "http://localhost:10999/images/COFFEE-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BrewPeak"
+    },
+    "offers": {
+      "price": "8.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/coffee-001",
+    "description": "Whole Bean Arabica Coffee, 12 oz",
+    "gtin": "9876543210208",
+    "mpn": "BR-COFFEE-001",
+    "category": "Groceries > Beverages > Tea & Coffee",
+    "nutrition": {
+      "servingSize": "1 tbsp",
+      "calories": 2,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "5mg",
+      "totalCarbohydrates": "0g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "0.2g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "MATCHA-001",
+    "name": "Matcha Green Tea Powder",
+    "sku": "MATCHA-001",
+    "image": [
+      "http://localhost:10999/images/MATCHA-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BrewPeak"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/matcha-001",
+    "description": "Ceremonial Grade Matcha Powder, 1.05 oz",
+    "gtin": "9876543210209",
+    "mpn": "BR-MATCHA-001",
+    "category": "Groceries > Beverages > Tea & Coffee",
+    "nutrition": {
+      "servingSize": "2g",
+      "calories": 5,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "1g",
+      "dietaryFiber": "0.5g",
+      "sugars": "0g",
+      "protein": "0.5g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "SWATER-001",
+    "name": "Sparkling Water Lime",
+    "sku": "SWATER-001",
+    "image": [
+      "http://localhost:10999/images/SWATER-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FizzWater"
+    },
+    "offers": {
+      "price": "4.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/swater-001",
+    "description": "Lime flavored unsweetened sparkling water, 8pk",
+    "gtin": "9876543210210",
+    "mpn": "FI-SWATER-001",
+    "category": "Groceries > Beverages > Juices & Sodas",
+    "nutrition": {
+      "servingSize": "355ml",
+      "calories": 0,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "0g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "OJUICE-001",
+    "name": "Organic Orange Juice",
+    "sku": "OJUICE-001",
+    "image": [
+      "http://localhost:10999/images/OJUICE-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FizzWater"
+    },
+    "offers": {
+      "price": "5.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/ojuice-001",
+    "description": "No pulp organic orange juice, 52 oz",
+    "gtin": "9876543210211",
+    "mpn": "FI-OJUICE-001",
+    "category": "Groceries > Beverages > Juices & Sodas",
+    "nutrition": {
+      "servingSize": "240ml",
+      "calories": 110,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "26g",
+      "dietaryFiber": "0g",
+      "sugars": "22g",
+      "protein": "2g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "KOMBU-001",
+    "name": "Ginger Kombucha",
+    "sku": "KOMBU-001",
+    "image": [
+      "http://localhost:10999/images/KOMBU-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FizzWater"
+    },
+    "offers": {
+      "price": "3.79",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/kombu-001",
+    "description": "Organic Raw Ginger Kombucha, 16 oz",
+    "gtin": "9876543210212",
+    "mpn": "FI-KOMBU-001",
+    "category": "Groceries > Beverages > Juices & Sodas",
+    "nutrition": {
+      "servingSize": "473ml",
+      "calories": 60,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "10mg",
+      "totalCarbohydrates": "14g",
+      "dietaryFiber": "0g",
+      "sugars": "12g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "COCO-001",
+    "name": "Coconut Water Pure",
+    "sku": "COCO-001",
+    "image": [
+      "http://localhost:10999/images/COCO-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FizzWater"
+    },
+    "offers": {
+      "price": "4.29",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/coco-001",
+    "description": "100% pure coconut water, 1L",
+    "gtin": "9876543210213",
+    "mpn": "FI-COCO-001",
+    "category": "Groceries > Beverages > Juices & Sodas",
+    "nutrition": {
+      "servingSize": "240ml",
+      "calories": 45,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "40mg",
+      "totalCarbohydrates": "11g",
+      "dietaryFiber": "0g",
+      "sugars": "9g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "QUINOA-001",
+    "name": "Organic Quinoa",
+    "sku": "QUINOA-001",
+    "image": [
+      "http://localhost:10999/images/QUINOA-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GrainSelect"
+    },
+    "offers": {
+      "price": "5.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/quinoa-001",
+    "description": "Organic White Quinoa Grain, 16 oz",
+    "gtin": "9876543210214",
+    "mpn": "GR-QUINOA-001",
+    "category": "Groceries > Pantry > Grains & Pasta",
+    "nutrition": {
+      "servingSize": "45g",
+      "calories": 170,
+      "totalFat": "2.5g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "29g",
+      "dietaryFiber": "3g",
+      "sugars": "0g",
+      "protein": "6g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "OATS-001",
+    "name": "Rolled Oats",
+    "sku": "OATS-001",
+    "image": [
+      "http://localhost:10999/images/OATS-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GrainSelect"
+    },
+    "offers": {
+      "price": "3.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/oats-001",
+    "description": "100% Whole Grain Rolled Oats, 32 oz",
+    "gtin": "9876543210215",
+    "mpn": "GR-OATS-001",
+    "category": "Groceries > Pantry > Grains & Pasta",
+    "nutrition": {
+      "servingSize": "40g",
+      "calories": 150,
+      "totalFat": "3g",
+      "saturatedFat": "0.5g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "27g",
+      "dietaryFiber": "4g",
+      "sugars": "1g",
+      "protein": "5g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "BRICE-001",
+    "name": "Brown Rice",
+    "sku": "BRICE-001",
+    "image": [
+      "http://localhost:10999/images/BRICE-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GrainSelect"
+    },
+    "offers": {
+      "price": "3.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/brice-001",
+    "description": "Organic Long Grain Brown Rice, 32 oz",
+    "gtin": "9876543210216",
+    "mpn": "GR-BRICE-001",
+    "category": "Groceries > Pantry > Grains & Pasta",
+    "nutrition": {
+      "servingSize": "45g",
+      "calories": 160,
+      "totalFat": "1.5g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "33g",
+      "dietaryFiber": "2g",
+      "sugars": "0g",
+      "protein": "3g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "DKCHOC-001",
+    "name": "Dark Chocolate Bar 85%",
+    "sku": "DKCHOC-001",
+    "image": [
+      "http://localhost:10999/images/DKCHOC-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CocoDelight"
+    },
+    "offers": {
+      "price": "3.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/dkchoc-001",
+    "description": "Organic Dark Chocolate Bar, 85% Cacao, 3 oz",
+    "gtin": "9876543210217",
+    "mpn": "CO-DKCHOC-001",
+    "category": "Groceries > Snacks > Bars & Sweets",
+    "nutrition": {
+      "servingSize": "30g",
+      "calories": 180,
+      "totalFat": "14g",
+      "saturatedFat": "9g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "11g",
+      "dietaryFiber": "3g",
+      "sugars": "4g",
+      "protein": "3g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "ALMND-001",
+    "name": "Roasted Almonds Salted",
+    "sku": "ALMND-001",
+    "image": [
+      "http://localhost:10999/images/ALMND-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CocoDelight"
+    },
+    "offers": {
+      "price": "6.29",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/almnd-001",
+    "description": "Whole roasted salted almonds, 10 oz",
+    "gtin": "9876543210218",
+    "mpn": "CO-ALMND-001",
+    "category": "Groceries > Snacks > Bars & Sweets",
+    "nutrition": {
+      "servingSize": "28g",
+      "calories": 160,
+      "totalFat": "14g",
+      "saturatedFat": "1g",
+      "sodium": "115mg",
+      "totalCarbohydrates": "6g",
+      "dietaryFiber": "3g",
+      "sugars": "1g",
+      "protein": "6g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "GRAN-001",
+    "name": "Granola Energy Mix",
+    "sku": "GRAN-001",
+    "image": [
+      "http://localhost:10999/images/GRAN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CocoDelight"
+    },
+    "offers": {
+      "price": "4.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/gran-001",
+    "description": "Crunchy oats and honey granola, 12 oz",
+    "gtin": "9876543210219",
+    "mpn": "CO-GRAN-001",
+    "category": "Groceries > Snacks > Bars & Sweets",
+    "nutrition": {
+      "servingSize": "55g",
+      "calories": 240,
+      "totalFat": "7g",
+      "saturatedFat": "1g",
+      "sodium": "75mg",
+      "totalCarbohydrates": "38g",
+      "dietaryFiber": "4g",
+      "sugars": "14g",
+      "protein": "5g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "HP-ANC-001",
+    "name": "Wireless ANC Headphones",
+    "sku": "HP-ANC-001",
+    "image": [
+      "http://localhost:10999/images/HP-ANC-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SonicWave"
+    },
+    "offers": {
+      "price": "99.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hp-anc-001",
+    "description": "Active Noise Cancelling Bluetooth Headphones",
+    "gtin": "9876543210220",
+    "mpn": "SO-HP-ANC-001",
+    "category": "Electronics > Audio > Headphones",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "EAR-TWS-001",
+    "name": "True Wireless Earbuds",
+    "sku": "EAR-TWS-001",
+    "image": [
+      "http://localhost:10999/images/EAR-TWS-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SonicWave"
+    },
+    "offers": {
+      "price": "49.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/ear-tws-001",
+    "description": "Sweatproof bluetooth earbuds with charging case",
+    "gtin": "9876543210221",
+    "mpn": "SO-EAR-TWS-001",
+    "category": "Electronics > Audio > Headphones",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SPK-BT-001",
+    "name": "Portable Bluetooth Speaker",
+    "sku": "SPK-BT-001",
+    "image": [
+      "http://localhost:10999/images/SPK-BT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SonicWave"
+    },
+    "offers": {
+      "price": "39.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/spk-bt-001",
+    "description": "IPX7 waterproof portable wireless speaker",
+    "gtin": "9876543210222",
+    "mpn": "SO-SPK-BT-001",
+    "category": "Electronics > Audio > Headphones",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "MOU-ERG-001",
+    "name": "Ergonomic Wireless Mouse",
+    "sku": "MOU-ERG-001",
+    "image": [
+      "http://localhost:10999/images/MOU-ERG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LogiTech"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/mou-erg-001",
+    "description": "Precision wireless mouse with adjustable DPI",
+    "gtin": "9876543210223",
+    "mpn": "LO-MOU-ERG-001",
+    "category": "Electronics > Computer Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "KBD-RGB-001",
+    "name": "Mechanical Keyboard RGB",
+    "sku": "KBD-RGB-001",
+    "image": [
+      "http://localhost:10999/images/KBD-RGB-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LogiTech"
+    },
+    "offers": {
+      "price": "79.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/kbd-rgb-001",
+    "description": "Tactile clicky mechanical keyboard, RGB backlit",
+    "gtin": "9876543210224",
+    "mpn": "LO-KBD-RGB-001",
+    "category": "Electronics > Computer Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "LPT-STND-001",
+    "name": "Aluminum Laptop Stand",
+    "sku": "LPT-STND-001",
+    "image": [
+      "http://localhost:10999/images/LPT-STND-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LogiTech"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/lpt-stnd-001",
+    "description": "Adjustable ergonomic cooling laptop stand",
+    "gtin": "9876543210225",
+    "mpn": "LO-LPT-STND-001",
+    "category": "Electronics > Computer Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HUB-USBC-001",
+    "name": "USB-C Multiport Hub",
+    "sku": "HUB-USBC-001",
+    "image": [
+      "http://localhost:10999/images/HUB-USBC-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LogiTech"
+    },
+    "offers": {
+      "price": "34.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hub-usbc-001",
+    "description": "7-in-1 USB-C hub with HDMI, SD Reader, 3 USB ports",
+    "gtin": "9876543210226",
+    "mpn": "LO-HUB-USBC-001",
+    "category": "Electronics > Computer Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "PWR-BANK-001",
+    "name": "Fast Charging Power Bank",
+    "sku": "PWR-BANK-001",
+    "image": [
+      "http://localhost:10999/images/PWR-BANK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "VoltPlus"
+    },
+    "offers": {
+      "price": "39.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/pwr-bank-001",
+    "description": "20000mAh PD fast charging external battery",
+    "gtin": "9876543210227",
+    "mpn": "VO-PWR-BANK-001",
+    "category": "Electronics > Power & Smart Home",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SMT-PLUG-001",
+    "name": "Smart Wi-Fi Plug 4-Pack",
+    "sku": "SMT-PLUG-001",
+    "image": [
+      "http://localhost:10999/images/SMT-PLUG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "VoltPlus"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/smt-plug-001",
+    "description": "Smart plugs compatible with Alexa and Google Home",
+    "gtin": "9876543210228",
+    "mpn": "VO-SMT-PLUG-001",
+    "category": "Electronics > Power & Smart Home",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "CHG-65W-001",
+    "name": "Fast USB-C Charger 65W",
+    "sku": "CHG-65W-001",
+    "image": [
+      "http://localhost:10999/images/CHG-65W-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "VoltPlus"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/chg-65w-001",
+    "description": "Dual port GaN wall charger fast power adapter",
+    "gtin": "9876543210229",
+    "mpn": "VO-CHG-65W-001",
+    "category": "Electronics > Power & Smart Home",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "WATCH-FIT-001",
+    "name": "Smart Fitness Watch",
+    "sku": "WATCH-FIT-001",
+    "image": [
+      "http://localhost:10999/images/WATCH-FIT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Chronos"
+    },
+    "offers": {
+      "price": "59.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/watch-fit-001",
+    "description": "Heart rate and sleep tracker smart watch, waterproof",
+    "gtin": "9876543210230",
+    "mpn": "CH-WATCH-FIT-001",
+    "category": "Electronics > Gadgets",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "MAG-CHG-001",
+    "name": "MagSafe Wireless Charger",
+    "sku": "MAG-CHG-001",
+    "image": [
+      "http://localhost:10999/images/MAG-CHG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Chronos"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/mag-chg-001",
+    "description": "15W magnetic alignment fast wireless charging pad",
+    "gtin": "9876543210231",
+    "mpn": "CH-MAG-CHG-001",
+    "category": "Electronics > Gadgets",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "RNG-LGT-001",
+    "name": "Desktop Ring Light",
+    "sku": "RNG-LGT-001",
+    "image": [
+      "http://localhost:10999/images/RNG-LGT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Chronos"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/rng-lgt-001",
+    "description": "10 inch ring light with tripod stand for video calls",
+    "gtin": "9876543210232",
+    "mpn": "CH-RNG-LGT-001",
+    "category": "Electronics > Gadgets",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "FRY-AIR-001",
+    "name": "Digital Air Fryer",
+    "sku": "FRY-AIR-001",
+    "image": [
+      "http://localhost:10999/images/FRY-AIR-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "KitchenPro"
+    },
+    "offers": {
+      "price": "89.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/fry-air-001",
+    "description": "5.8 QT digital air fryer with preset programs",
+    "gtin": "9876543210233",
+    "mpn": "KI-FRY-AIR-001",
+    "category": "Home & Kitchen > Kitchen Appliances",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "KET-GOOS-001",
+    "name": "Electric Gooseneck Kettle",
+    "sku": "KET-GOOS-001",
+    "image": [
+      "http://localhost:10999/images/KET-GOOS-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "KitchenPro"
+    },
+    "offers": {
+      "price": "69.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/ket-goos-001",
+    "description": "Temperature control electric pour-over kettle",
+    "gtin": "9876543210234",
+    "mpn": "KI-KET-GOOS-001",
+    "category": "Home & Kitchen > Kitchen Appliances",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BLND-SM-001",
+    "name": "Personal Smoothie Blender",
+    "sku": "BLND-SM-001",
+    "image": [
+      "http://localhost:10999/images/BLND-SM-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "KitchenPro"
+    },
+    "offers": {
+      "price": "34.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/blnd-sm-001",
+    "description": "High speed personal blender with to-go cup",
+    "gtin": "9876543210235",
+    "mpn": "KI-BLND-SM-001",
+    "category": "Home & Kitchen > Kitchen Appliances",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "FROTH-001",
+    "name": "Automatic Milk Frother",
+    "sku": "FROTH-001",
+    "image": [
+      "http://localhost:10999/images/FROTH-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "KitchenPro"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/froth-001",
+    "description": "Hot & cold milk frother and warmer",
+    "gtin": "9876543210236",
+    "mpn": "KI-FROTH-001",
+    "category": "Home & Kitchen > Kitchen Appliances",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BTL-VAC-001",
+    "name": "Insulated Water Bottle",
+    "sku": "BTL-VAC-001",
+    "image": [
+      "http://localhost:10999/images/BTL-VAC-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "HydroVessel"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/btl-vac-001",
+    "description": "32 oz double-wall vacuum insulated water bottle",
+    "gtin": "9876543210237",
+    "mpn": "HY-BTL-VAC-001",
+    "category": "Home & Kitchen > Drinkware & Dining",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "MUG-CER-001",
+    "name": "Ceramic Coffee Mug Set",
+    "sku": "MUG-CER-001",
+    "image": [
+      "http://localhost:10999/images/MUG-CER-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "HydroVessel"
+    },
+    "offers": {
+      "price": "18.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/mug-cer-001",
+    "description": "Set of 4 matte ceramic coffee mugs, 12 oz",
+    "gtin": "9876543210238",
+    "mpn": "HY-MUG-CER-001",
+    "category": "Home & Kitchen > Drinkware & Dining",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "CONT-GLS-001",
+    "name": "Glass Food Containers",
+    "sku": "CONT-GLS-001",
+    "image": [
+      "http://localhost:10999/images/CONT-GLS-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "HydroVessel"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/cont-gls-001",
+    "description": "10-piece glass meal prep storage containers",
+    "gtin": "9876543210239",
+    "mpn": "HY-CONT-GLS-001",
+    "category": "Home & Kitchen > Drinkware & Dining",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "CNDL-SOY-001",
+    "name": "Scented Soy Candle",
+    "sku": "CNDL-SOY-001",
+    "image": [
+      "http://localhost:10999/images/CNDL-SOY-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CozyHome"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/cndl-soy-001",
+    "description": "Lavender Eucalyptus relaxing aromatherapy candle",
+    "gtin": "9876543210240",
+    "mpn": "CO-CNDL-SOY-001",
+    "category": "Home & Kitchen > Organization & Decor",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "PIL-MEM-001",
+    "name": "Memory Foam Pillow",
+    "sku": "PIL-MEM-001",
+    "image": [
+      "http://localhost:10999/images/PIL-MEM-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CozyHome"
+    },
+    "offers": {
+      "price": "34.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/pil-mem-001",
+    "description": "Ergonomic contour pillow for neck pain relief",
+    "gtin": "9876543210241",
+    "mpn": "CO-PIL-MEM-001",
+    "category": "Home & Kitchen > Organization & Decor",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "DIFF-OIL-001",
+    "name": "Ultrasonic Oil Diffuser",
+    "sku": "DIFF-OIL-001",
+    "image": [
+      "http://localhost:10999/images/DIFF-OIL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CozyHome"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/diff-oil-001",
+    "description": "Essential oil diffuser with 7-color LED lights",
+    "gtin": "9876543210242",
+    "mpn": "CO-DIFF-OIL-001",
+    "category": "Home & Kitchen > Organization & Decor",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BLKT-FLC-001",
+    "name": "Fleece Throw Blanket",
+    "sku": "BLKT-FLC-001",
+    "image": [
+      "http://localhost:10999/images/BLKT-FLC-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "CozyHome"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/blkt-flc-001",
+    "description": "Super soft cozy plush fleece throw blanket",
+    "gtin": "9876543210243",
+    "mpn": "CO-BLKT-FLC-001",
+    "category": "Home & Kitchen > Organization & Decor",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "TSH-MN-001",
+    "name": "Cotton Crewneck T-Shirt",
+    "sku": "TSH-MN-001",
+    "image": [
+      "http://localhost:10999/images/TSH-MN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FitWear"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/tsh-mn-001",
+    "description": "Pack of 3 premium cotton basic t-shirts",
+    "gtin": "9876543210244",
+    "mpn": "FI-TSH-MN-001",
+    "category": "Apparel > Men's Clothing",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "JOG-MN-001",
+    "name": "Athletic Jogger Pants",
+    "sku": "JOG-MN-001",
+    "image": [
+      "http://localhost:10999/images/JOG-MN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FitWear"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/jog-mn-001",
+    "description": "Slim fit breathable running joggers",
+    "gtin": "9876543210245",
+    "mpn": "FI-JOG-MN-001",
+    "category": "Apparel > Men's Clothing",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SOX-ATH-001",
+    "name": "Running Cushion Socks",
+    "sku": "SOX-ATH-001",
+    "image": [
+      "http://localhost:10999/images/SOX-ATH-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FitWear"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/sox-ath-001",
+    "description": "6 pairs of low-cut athletic socks with arch support",
+    "gtin": "9876543210246",
+    "mpn": "FI-SOX-ATH-001",
+    "category": "Apparel > Men's Clothing",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SUN-POL-001",
+    "name": "Polarized Sunglasses",
+    "sku": "SUN-POL-001",
+    "image": [
+      "http://localhost:10999/images/SUN-POL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LuxCarry"
+    },
+    "offers": {
+      "price": "16.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/sun-pol-001",
+    "description": "Classic retro style UV400 polarized sunglasses",
+    "gtin": "9876543210247",
+    "mpn": "LU-SUN-POL-001",
+    "category": "Apparel > Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "WLT-LTH-001",
+    "name": "Slim Leather Wallet",
+    "sku": "WLT-LTH-001",
+    "image": [
+      "http://localhost:10999/images/WLT-LTH-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LuxCarry"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/wlt-lth-001",
+    "description": "RFID blocking genuine leather bi-fold wallet",
+    "gtin": "9876543210248",
+    "mpn": "LU-WLT-LTH-001",
+    "category": "Apparel > Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BPK-CNV-001",
+    "name": "Canvas Backpack",
+    "sku": "BPK-CNV-001",
+    "image": [
+      "http://localhost:10999/images/BPK-CNV-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LuxCarry"
+    },
+    "offers": {
+      "price": "39.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bpk-cnv-001",
+    "description": "Vintage travel school backpack fits 15.6 inch laptop",
+    "gtin": "9876543210249",
+    "mpn": "LU-BPK-CNV-001",
+    "category": "Apparel > Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BN-KNT-001",
+    "name": "Winter Knit Beanie",
+    "sku": "BN-KNT-001",
+    "image": [
+      "http://localhost:10999/images/BN-KNT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "LuxCarry"
+    },
+    "offers": {
+      "price": "12.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bn-knt-001",
+    "description": "Warm acrylic rib-knit beanie hat, unisex",
+    "gtin": "9876543210250",
+    "mpn": "LU-BN-KNT-001",
+    "category": "Apparel > Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "LEG-WM-001",
+    "name": "High Waisted Leggings",
+    "sku": "LEG-WM-001",
+    "image": [
+      "http://localhost:10999/images/LEG-WM-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "AuraActive"
+    },
+    "offers": {
+      "price": "22.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/leg-wm-001",
+    "description": "Buttery soft non-see-through workout leggings",
+    "gtin": "9876543210251",
+    "mpn": "AU-LEG-WM-001",
+    "category": "Apparel > Women's Clothing",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SWT-WM-001",
+    "name": "Oversized Knit Sweater",
+    "sku": "SWT-WM-001",
+    "image": [
+      "http://localhost:10999/images/SWT-WM-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "AuraActive"
+    },
+    "offers": {
+      "price": "34.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/swt-wm-001",
+    "description": "Casual crewneck loose pullover sweater",
+    "gtin": "9876543210252",
+    "mpn": "AU-SWT-WM-001",
+    "category": "Apparel > Women's Clothing",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "JKT-RAIN-001",
+    "name": "Packable Rain Jacket",
+    "sku": "JKT-RAIN-001",
+    "image": [
+      "http://localhost:10999/images/JKT-RAIN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "AuraActive"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/jkt-rain-001",
+    "description": "Waterproof windbreaker lightweight rain coat",
+    "gtin": "9876543210253",
+    "mpn": "AU-JKT-RAIN-001",
+    "category": "Apparel > Women's Clothing",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "YOGA-MAT-001",
+    "name": "Thick Yoga Mat",
+    "sku": "YOGA-MAT-001",
+    "image": [
+      "http://localhost:10999/images/YOGA-MAT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FlexGym"
+    },
+    "offers": {
+      "price": "21.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/yoga-mat-001",
+    "description": "1/2 inch extra thick high density exercise mat",
+    "gtin": "9876543210254",
+    "mpn": "FL-YOGA-MAT-001",
+    "category": "Fitness > Home Gym",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BND-RST-001",
+    "name": "Resistance Bands Set",
+    "sku": "BND-RST-001",
+    "image": [
+      "http://localhost:10999/images/BND-RST-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FlexGym"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bnd-rst-001",
+    "description": "Set of 5 stackable exercise bands with handles",
+    "gtin": "9876543210255",
+    "mpn": "FL-BND-RST-001",
+    "category": "Fitness > Home Gym",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "DMB-ADJ-001",
+    "name": "Adjustable Dumbbells Pair",
+    "sku": "DMB-ADJ-001",
+    "image": [
+      "http://localhost:10999/images/DMB-ADJ-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FlexGym"
+    },
+    "offers": {
+      "price": "149.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/dmb-adj-001",
+    "description": "Selectable weight dumbbells pair, 5-25 lbs each",
+    "gtin": "9876543210256",
+    "mpn": "FL-DMB-ADJ-001",
+    "category": "Fitness > Home Gym",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "FOAM-ROL-001",
+    "name": "Foam Roller Roller",
+    "sku": "FOAM-ROL-001",
+    "image": [
+      "http://localhost:10999/images/FOAM-ROL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FlexGym"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/foam-rol-001",
+    "description": "High density foam roller for muscle massage",
+    "gtin": "9876543210257",
+    "mpn": "FL-FOAM-ROL-001",
+    "category": "Fitness > Home Gym",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "TNT-CAMP-001",
+    "name": "Waterproof Camping Tent",
+    "sku": "TNT-CAMP-001",
+    "image": [
+      "http://localhost:10999/images/TNT-CAMP-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "TrailBlaze"
+    },
+    "offers": {
+      "price": "79.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/tnt-camp-001",
+    "description": "3-Person 4-Season easy setup dome camping tent",
+    "gtin": "9876543210258",
+    "mpn": "TR-TNT-CAMP-001",
+    "category": "Outdoors > Camping & Hiking",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SLP-BAG-001",
+    "name": "Sleeping Bag 3-Season",
+    "sku": "SLP-BAG-001",
+    "image": [
+      "http://localhost:10999/images/SLP-BAG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "TrailBlaze"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/slp-bag-001",
+    "description": "Warm weather envelope sleeping bag for camping",
+    "gtin": "9876543210259",
+    "mpn": "TR-SLP-BAG-001",
+    "category": "Outdoors > Camping & Hiking",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HD-LMP-001",
+    "name": "Rechargeable LED Headlamp",
+    "sku": "HD-LMP-001",
+    "image": [
+      "http://localhost:10999/images/HD-LMP-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "TrailBlaze"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hd-lmp-001",
+    "description": "Super bright waterproof headlamp flashlight",
+    "gtin": "9876543210260",
+    "mpn": "TR-HD-LMP-001",
+    "category": "Outdoors > Camping & Hiking",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HMC-SNGL-001",
+    "name": "Parachute Hammock Single",
+    "sku": "HMC-SNGL-001",
+    "image": [
+      "http://localhost:10999/images/HMC-SNGL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "TrailBlaze"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hmc-sngl-001",
+    "description": "Portable single camping hammock with tree straps",
+    "gtin": "9876543210261",
+    "mpn": "TR-HMC-SNGL-001",
+    "category": "Outdoors > Camping & Hiking",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "MAT-DSK-001",
+    "name": "Dual-Sided Desk Pad",
+    "sku": "MAT-DSK-001",
+    "image": [
+      "http://localhost:10999/images/MAT-DSK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DeskCraft"
+    },
+    "offers": {
+      "price": "15.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/mat-dsk-001",
+    "description": "Large PU leather waterproof desk protector blotter",
+    "gtin": "9876543210262",
+    "mpn": "DE-MAT-DSK-001",
+    "category": "Office > Desk Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "ORG-DSK-001",
+    "name": "Mesh Desk Organizer",
+    "sku": "ORG-DSK-001",
+    "image": [
+      "http://localhost:10999/images/ORG-DSK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DeskCraft"
+    },
+    "offers": {
+      "price": "18.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/org-dsk-001",
+    "description": "Multi-functional desktop organizer caddy, 6 compartments",
+    "gtin": "9876543210263",
+    "mpn": "DE-ORG-DSK-001",
+    "category": "Office > Desk Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "RSR-MON-001",
+    "name": "Monitor Stand Riser",
+    "sku": "RSR-MON-001",
+    "image": [
+      "http://localhost:10999/images/RSR-MON-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DeskCraft"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/rsr-mon-001",
+    "description": "Wood monitor riser stand with drawer slots",
+    "gtin": "9876543210264",
+    "mpn": "DE-RSR-MON-001",
+    "category": "Office > Desk Accessories",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "NTB-DOT-001",
+    "name": "Dotted Journal Notebook",
+    "sku": "NTB-DOT-001",
+    "image": [
+      "http://localhost:10999/images/NTB-DOT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ScriptCo"
+    },
+    "offers": {
+      "price": "12.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/ntb-dot-001",
+    "description": "A5 hardcover dotted paper bullet journal, 120gsm",
+    "gtin": "9876543210265",
+    "mpn": "SC-NTB-DOT-001",
+    "category": "Office > Notebooks & Pens",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "PEN-GEL-001",
+    "name": "Fine Gel Pens Set",
+    "sku": "PEN-GEL-001",
+    "image": [
+      "http://localhost:10999/images/PEN-GEL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ScriptCo"
+    },
+    "offers": {
+      "price": "9.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/pen-gel-001",
+    "description": "12 colors fine point gel ink pens, smooth writing",
+    "gtin": "9876543210266",
+    "mpn": "SC-PEN-GEL-001",
+    "category": "Office > Notebooks & Pens",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "STK-NTE-001",
+    "name": "Sticky Notes Value Pack",
+    "sku": "STK-NTE-001",
+    "image": [
+      "http://localhost:10999/images/STK-NTE-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ScriptCo"
+    },
+    "offers": {
+      "price": "11.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/stk-nte-001",
+    "description": "24 pads pastel colors sticky notes, 3x3 inches",
+    "gtin": "9876543210267",
+    "mpn": "SC-STK-NTE-001",
+    "category": "Office > Notebooks & Pens",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SHRD-PPR-001",
+    "name": "Cross-Cut Paper Shredder",
+    "sku": "SHRD-PPR-001",
+    "image": [
+      "http://localhost:10999/images/SHRD-PPR-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ShredTech"
+    },
+    "offers": {
+      "price": "45.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/shrd-ppr-001",
+    "description": "8-sheet cross-cut paper and credit card shredder",
+    "gtin": "9876543210268",
+    "mpn": "SH-SHRD-PPR-001",
+    "category": "Office > Tech & Equipment",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "LAM-MON-001",
+    "name": "Laminator Machine 9-inch",
+    "sku": "LAM-MON-001",
+    "image": [
+      "http://localhost:10999/images/LAM-MON-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ShredTech"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/lam-mon-001",
+    "description": "Thermal laminating machine with laminating pouches",
+    "gtin": "9876543210269",
+    "mpn": "SH-LAM-MON-001",
+    "category": "Office > Tech & Equipment",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "TURM-001",
+    "name": "Organic Turmeric Powder",
+    "sku": "TURM-001",
+    "image": [
+      "http://localhost:10999/images/TURM-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SpiceRoute"
+    },
+    "offers": {
+      "price": "4.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/turm-001",
+    "description": "Ground turmeric root powder, 8 oz",
+    "gtin": "9876543210270",
+    "mpn": "SP-TURM-001",
+    "category": "Groceries > Pantry > Spices & Seasonings",
+    "nutrition": {
+      "servingSize": "5g",
+      "calories": 15,
+      "totalFat": "0.5g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "3g",
+      "dietaryFiber": "1g",
+      "sugars": "0g",
+      "protein": "0.5g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "SALT-PNK-001",
+    "name": "Himalayan Pink Salt",
+    "sku": "SALT-PNK-001",
+    "image": [
+      "http://localhost:10999/images/SALT-PNK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SpiceRoute"
+    },
+    "offers": {
+      "price": "3.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/salt-pnk-001",
+    "description": "Fine grain Himalayan pink salt, 16 oz",
+    "gtin": "9876543210271",
+    "mpn": "SP-SALT-PNK-001",
+    "category": "Groceries > Pantry > Spices & Seasonings",
+    "nutrition": {
+      "servingSize": "1.5g",
+      "calories": 0,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "570mg",
+      "totalCarbohydrates": "0g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "PEP-BLK-001",
+    "name": "Organic Black Pepper",
+    "sku": "PEP-BLK-001",
+    "image": [
+      "http://localhost:10999/images/PEP-BLK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SpiceRoute"
+    },
+    "offers": {
+      "price": "4.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/pep-blk-001",
+    "description": "Whole black peppercorns with grinder, 4 oz",
+    "gtin": "9876543210272",
+    "mpn": "SP-PEP-BLK-001",
+    "category": "Groceries > Pantry > Spices & Seasonings",
+    "nutrition": {
+      "servingSize": "1g",
+      "calories": 0,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "0g",
+      "dietaryFiber": "0g",
+      "sugars": "0g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "PLNT-SUC-001",
+    "name": "Succulent Plants 4-Pack",
+    "sku": "PLNT-SUC-001",
+    "image": [
+      "http://localhost:10999/images/PLNT-SUC-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GreenThumb"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/plnt-suc-001",
+    "description": "Assorted live mini succulent plants in pots",
+    "gtin": "9876543210273",
+    "mpn": "GR-PLNT-SUC-001",
+    "category": "Home & Kitchen > Gardening & Plants",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "POT-SLF-001",
+    "name": "Self Watering Planter",
+    "sku": "POT-SLF-001",
+    "image": [
+      "http://localhost:10999/images/POT-SLF-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GreenThumb"
+    },
+    "offers": {
+      "price": "12.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/pot-slf-001",
+    "description": "Plastic self watering flower pot, 6 inch",
+    "gtin": "9876543210274",
+    "mpn": "GR-POT-SLF-001",
+    "category": "Home & Kitchen > Gardening & Plants",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SOIL-ORG-001",
+    "name": "Organic Potting Soil",
+    "sku": "SOIL-ORG-001",
+    "image": [
+      "http://localhost:10999/images/SOIL-ORG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GreenThumb"
+    },
+    "offers": {
+      "price": "9.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/soil-org-001",
+    "description": "Premium organic potting mix, 8 QT",
+    "gtin": "9876543210275",
+    "mpn": "GR-SOIL-ORG-001",
+    "category": "Home & Kitchen > Gardening & Plants",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "TOY-CHESS-001",
+    "name": "Wooden Chess Set",
+    "sku": "TOY-CHESS-001",
+    "image": [
+      "http://localhost:10999/images/TOY-CHESS-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FunPlay"
+    },
+    "offers": {
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/toy-chess-001",
+    "description": "Handcrafted folding wooden chess board game set",
+    "gtin": "9876543210276",
+    "mpn": "FU-TOY-CHESS-001",
+    "category": "Toys & Games > Board Games & Puzzles",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "TOY-PZL-001",
+    "name": "Jigsaw Puzzle 1000 Pcs",
+    "sku": "TOY-PZL-001",
+    "image": [
+      "http://localhost:10999/images/TOY-PZL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FunPlay"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/toy-pzl-001",
+    "description": "High quality cardboard jigsaw puzzle, landscape",
+    "gtin": "9876543210277",
+    "mpn": "FU-TOY-PZL-001",
+    "category": "Toys & Games > Board Games & Puzzles",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "TOY-CARD-001",
+    "name": "Classic Card Games Set",
+    "sku": "TOY-CARD-001",
+    "image": [
+      "http://localhost:10999/images/TOY-CARD-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "FunPlay"
+    },
+    "offers": {
+      "price": "6.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/toy-card-001",
+    "description": "Pack of 2 standard bicycle playing cards",
+    "gtin": "9876543210278",
+    "mpn": "FU-TOY-CARD-001",
+    "category": "Toys & Games > Board Games & Puzzles",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BOK-SF-001",
+    "name": "Classic Sci-Fi Novel",
+    "sku": "BOK-SF-001",
+    "image": [
+      "http://localhost:10999/images/BOK-SF-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "PaperBacks"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bok-sf-001",
+    "description": "Hardcover collector edition classic sci-fi novel",
+    "gtin": "9876543210279",
+    "mpn": "PA-BOK-SF-001",
+    "category": "Books > Fiction & Literature",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BOK-NTB-002",
+    "name": "Aesthetic Notebook Set",
+    "sku": "BOK-NTB-002",
+    "image": [
+      "http://localhost:10999/images/BOK-NTB-002.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "PaperBacks"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bok-ntb-002",
+    "description": "Set of 3 minimalist journals, soft cover",
+    "gtin": "9876543210280",
+    "mpn": "PA-BOK-NTB-002",
+    "category": "Books > Fiction & Literature",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BOK-BMK-001",
+    "name": "Leather Bookmark",
+    "sku": "BOK-BMK-001",
+    "image": [
+      "http://localhost:10999/images/BOK-BMK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "PaperBacks"
+    },
+    "offers": {
+      "price": "5.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bok-bmk-001",
+    "description": "Genuine leather handmade book marker",
+    "gtin": "9876543210281",
+    "mpn": "PA-BOK-BMK-001",
+    "category": "Books > Fiction & Literature",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HPC-BAMB-001",
+    "name": "Bamboo Toothbrush 4-Pack",
+    "sku": "HPC-BAMB-001",
+    "image": [
+      "http://localhost:10999/images/HPC-BAMB-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "OralFresh"
+    },
+    "offers": {
+      "price": "7.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hpc-bamb-001",
+    "description": "Eco-friendly natural bamboo toothbrushes",
+    "gtin": "9876543210282",
+    "mpn": "OR-HPC-BAMB-001",
+    "category": "Health & Personal Care > Oral Care",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HPC-PAST-001",
+    "name": "Charcoal Toothpaste",
+    "sku": "HPC-PAST-001",
+    "image": [
+      "http://localhost:10999/images/HPC-PAST-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "OralFresh"
+    },
+    "offers": {
+      "price": "6.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hpc-past-001",
+    "description": "Natural activated charcoal teeth whitening paste",
+    "gtin": "9876543210283",
+    "mpn": "OR-HPC-PAST-001",
+    "category": "Health & Personal Care > Oral Care",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HPC-FLOS-001",
+    "name": "Water Dental Flosser",
+    "sku": "HPC-FLOS-001",
+    "image": [
+      "http://localhost:10999/images/HPC-FLOS-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "OralFresh"
+    },
+    "offers": {
+      "price": "34.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hpc-flos-001",
+    "description": "Cordless portable water flosser oral irrigator",
+    "gtin": "9876543210284",
+    "mpn": "OR-HPC-FLOS-001",
+    "category": "Health & Personal Care > Oral Care",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HPC-MOIST-001",
+    "name": "Moisturizing Cream",
+    "sku": "HPC-MOIST-001",
+    "image": [
+      "http://localhost:10999/images/HPC-MOIST-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "PureGlow"
+    },
+    "offers": {
+      "price": "18.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hpc-moist-001",
+    "description": "Deep hydrating facial moisturizing cream, 1.7 oz",
+    "gtin": "9876543210285",
+    "mpn": "PU-HPC-MOIST-001",
+    "category": "Health & Personal Care > Skin & Body",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HPC-BALM-001",
+    "name": "Organic Lip Balm Set",
+    "sku": "HPC-BALM-001",
+    "image": [
+      "http://localhost:10999/images/HPC-BALM-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "PureGlow"
+    },
+    "offers": {
+      "price": "7.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hpc-balm-001",
+    "description": "Pack of 4 beeswax lip balm, assorted flavors",
+    "gtin": "9876543210286",
+    "mpn": "PU-HPC-BALM-001",
+    "category": "Health & Personal Care > Skin & Body",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "HPC-SUN-001",
+    "name": "Mineral Sunscreen SPF 50",
+    "sku": "HPC-SUN-001",
+    "image": [
+      "http://localhost:10999/images/HPC-SUN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "PureGlow"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/hpc-sun-001",
+    "description": "Broad spectrum zinc oxide mineral face sunscreen",
+    "gtin": "9876543210287",
+    "mpn": "PU-HPC-SUN-001",
+    "category": "Health & Personal Care > Skin & Body",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SH-RUN-001",
+    "name": "Lightweight Running Shoes",
+    "sku": "SH-RUN-001",
+    "image": [
+      "http://localhost:10999/images/SH-RUN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "StepFit"
+    },
+    "offers": {
+      "price": "49.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/sh-run-001",
+    "description": "Breathable mesh cushion athletic road shoes",
+    "gtin": "9876543210288",
+    "mpn": "ST-SH-RUN-001",
+    "category": "Apparel > Shoes",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SH-SLIP-001",
+    "name": "Canvas Slip-on Sneakers",
+    "sku": "SH-SLIP-001",
+    "image": [
+      "http://localhost:10999/images/SH-SLIP-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "StepFit"
+    },
+    "offers": {
+      "price": "24.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/sh-slip-001",
+    "description": "Casual lightweight walk canvas shoes",
+    "gtin": "9876543210289",
+    "mpn": "ST-SH-SLIP-001",
+    "category": "Apparel > Shoes",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SH-INSL-001",
+    "name": "Orthotic Gel Insoles",
+    "sku": "SH-INSL-001",
+    "image": [
+      "http://localhost:10999/images/SH-INSL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "StepFit"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/sh-insl-001",
+    "description": "Shoe insoles for high arch support & pain relief",
+    "gtin": "9876543210290",
+    "mpn": "ST-SH-INSL-001",
+    "category": "Apparel > Shoes",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BED-SHT-001",
+    "name": "Sateen Sheet Set Queen",
+    "sku": "BED-SHT-001",
+    "image": [
+      "http://localhost:10999/images/BED-SHT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SoftSnooze"
+    },
+    "offers": {
+      "price": "59.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bed-sht-001",
+    "description": "100% organic cotton sateen 400-thread count sheets",
+    "gtin": "9876543210291",
+    "mpn": "SO-BED-SHT-001",
+    "category": "Home & Kitchen > Bedding & Bath",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BTH-TWL-001",
+    "name": "Turkish Cotton Towels",
+    "sku": "BTH-TWL-001",
+    "image": [
+      "http://localhost:10999/images/BTH-TWL-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SoftSnooze"
+    },
+    "offers": {
+      "price": "34.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bth-twl-001",
+    "description": "Set of 2 luxury Turkish cotton bath towels, plush",
+    "gtin": "9876543210292",
+    "mpn": "SO-BTH-TWL-001",
+    "category": "Home & Kitchen > Bedding & Bath",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BED-MSK-001",
+    "name": "Silk Sleep Eye Mask",
+    "sku": "BED-MSK-001",
+    "image": [
+      "http://localhost:10999/images/BED-MSK-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SoftSnooze"
+    },
+    "offers": {
+      "price": "12.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bed-msk-001",
+    "description": "Pure mulberry silk sleep mask, ultra-soft",
+    "gtin": "9876543210293",
+    "mpn": "SO-BED-MSK-001",
+    "category": "Home & Kitchen > Bedding & Bath",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "CHIA-001",
+    "name": "Organic Chia Seeds",
+    "sku": "CHIA-001",
+    "image": [
+      "http://localhost:10999/images/CHIA-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SunNaturals"
+    },
+    "offers": {
+      "price": "5.49",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/chia-001",
+    "description": "Organic black chia seeds superfood, 12 oz",
+    "gtin": "9876543210294",
+    "mpn": "SU-CHIA-001",
+    "category": "Groceries > Snacks > Dried Fruit & Seeds",
+    "nutrition": {
+      "servingSize": "15g",
+      "calories": 70,
+      "totalFat": "4.5g",
+      "saturatedFat": "0.5g",
+      "sodium": "0mg",
+      "totalCarbohydrates": "6g",
+      "dietaryFiber": "5g",
+      "sugars": "0g",
+      "protein": "3g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "CRAN-001",
+    "name": "Organic Dried Cranberries",
+    "sku": "CRAN-001",
+    "image": [
+      "http://localhost:10999/images/CRAN-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SunNaturals"
+    },
+    "offers": {
+      "price": "3.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/cran-001",
+    "description": "Sweetened organic dried cranberries, 8 oz",
+    "gtin": "9876543210295",
+    "mpn": "SU-CRAN-001",
+    "category": "Groceries > Snacks > Dried Fruit & Seeds",
+    "nutrition": {
+      "servingSize": "40g",
+      "calories": 130,
+      "totalFat": "0g",
+      "saturatedFat": "0g",
+      "sodium": "5mg",
+      "totalCarbohydrates": "33g",
+      "dietaryFiber": "2g",
+      "sugars": "29g",
+      "protein": "0g"
+    }
+  },
+  {
+    "@type": "Product",
+    "productID": "SMT-LED-001",
+    "name": "Smart LED Light Strip",
+    "sku": "SMT-LED-001",
+    "image": [
+      "http://localhost:10999/images/SMT-LED-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "VoltPlus"
+    },
+    "offers": {
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/smt-led-001",
+    "description": "16.4ft RGB LED light strip with app control",
+    "gtin": "9876543210296",
+    "mpn": "VO-SMT-LED-001",
+    "category": "Electronics > Smart Home",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "SMT-TEMP-001",
+    "name": "Smart Temperature Sensor",
+    "sku": "SMT-TEMP-001",
+    "image": [
+      "http://localhost:10999/images/SMT-TEMP-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "VoltPlus"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/smt-temp-001",
+    "description": "Wireless indoor temperature & humidity monitor",
+    "gtin": "9876543210297",
+    "mpn": "VO-SMT-TEMP-001",
+    "category": "Electronics > Smart Home",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "DIV-DRW-001",
+    "name": "Plastic Drawer Divider",
+    "sku": "DIV-DRW-001",
+    "image": [
+      "http://localhost:10999/images/DIV-DRW-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DeskCraft"
+    },
+    "offers": {
+      "price": "14.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/div-drw-001",
+    "description": "Set of 4 adjustable drawer dividers",
+    "gtin": "9876543210298",
+    "mpn": "DE-DIV-DRW-001",
+    "category": "Home & Kitchen > Storage & Organization",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "ORG-HNG-001",
+    "name": "Hanging Closet Organizer",
+    "sku": "ORG-HNG-001",
+    "image": [
+      "http://localhost:10999/images/ORG-HNG-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "DeskCraft"
+    },
+    "offers": {
+      "price": "17.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/org-hng-001",
+    "description": "5-shelf hanging closet organizer with side pockets",
+    "gtin": "9876543210299",
+    "mpn": "DE-ORG-HNG-001",
+    "category": "Home & Kitchen > Storage & Organization",
+    "nutrition": null
+  },
+  {
+    "@type": "Product",
+    "productID": "BTH-MAT-001",
+    "name": "Memory Foam Bath Mat",
+    "sku": "BTH-MAT-001",
+    "image": [
+      "http://localhost:10999/images/BTH-MAT-001.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "SoftSnooze"
+    },
+    "offers": {
+      "price": "15.99",
+      "priceCurrency": "USD",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://example.com/bth-mat-001",
+    "description": "Soft absorbent memory foam bath rug, non-slip",
+    "gtin": "9876543210300",
+    "mpn": "SO-BTH-MAT-001",
+    "category": "Home & Kitchen > Bath Accessories",
+    "nutrition": null
+  }
+]
